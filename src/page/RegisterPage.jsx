@@ -142,7 +142,7 @@ function RegisterPage() {
                 <option value="Humanities">Humanities</option>
               </Form.Select>
               </Form.Group>
-              <button onClick={handleRegister} className=" btn btn-success w-50 mt-5">Register</button>
+              <button onClick={handleRegister} className=" btn btn-success w-50 mt-5"><a href="/allstudents">Register</a></button>
             </div>
           </div>
         </div>
